@@ -1,0 +1,36 @@
+body {
+    background-color: #000000;
+    opacity: 1;
+    background-image:  linear-gradient(30deg, #1d1d1d 12%, transparent 12.5%, transparent 87%, #1d1d1d 87.5%, #1d1d1d), linear-gradient(150deg, #1d1d1d 12%, transparent 12.5%, transparent 87%, #1d1d1d 87.5%, #1d1d1d), linear-gradient(30deg, #1d1d1d 12%, transparent 12.5%, transparent 87%, #1d1d1d 87.5%, #1d1d1d), linear-gradient(150deg, #1d1d1d 12%, transparent 12.5%, transparent 87%, #1d1d1d 87.5%, #1d1d1d), linear-gradient(60deg, #1d1d1d77 25%, transparent 25.5%, transparent 75%, #1d1d1d77 75%, #1d1d1d77), linear-gradient(60deg, #1d1d1d77 25%, transparent 25.5%, transparent 75%, #1d1d1d77 75%, #1d1d1d77);
+    background-size: 64px 112px;
+    background-position: 0 0, 0 0, 32px 56px, 32px 56px, 0 0, 32px 56px;
+  }
+
+p{
+    color: #FFFFFF;
+    text-shadow: 3px 5px 2px #474747;
+}
+
+.logo{
+    height: 50%;
+    width: 100%;
+    
+}
+
+#precios {
+    margin-top: 20px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid #ffffff;
+  }
+
+  #contactos {
+  margin-top: 40px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  }
+
+ 
